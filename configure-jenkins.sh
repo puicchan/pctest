@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get upgrade
+sudo apt-get upgrade -y
 
 # Install OpenJDK
 sudo apt install openjdk-8-jdk -y
